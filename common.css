@@ -1,0 +1,11 @@
+#stage {
+  border: 2px solid black;
+  border-radius: 16px;
+  height: 56.25vw;
+  overflow: hidden;
+}
+
+#ball {
+  width: 15vw;
+  height: 15vw;
+}

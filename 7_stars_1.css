@@ -1,0 +1,16 @@
+body {
+  background-color: darkblue;
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+}
+
+.star {
+  position: absolute;
+  left: 49.5vw;
+  top: 49vh;
+  width: 1vw;
+  height: 1vw;
+  background-color: yellow;
+  border-radius: 50%;
+}
